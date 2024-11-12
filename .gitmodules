@@ -1,3 +1,6 @@
 [submodule "FirstSubrepo"]
 	path = FirstSubrepo
 	url = https://github.com/GiorgioRossi96/FirstSubrepo
+[submodule "submodules/SecondSubrepo"]
+	path = submodules/SecondSubrepo
+	url = https://github.com/GiorgioRossi96/SecondSubrepo.git
